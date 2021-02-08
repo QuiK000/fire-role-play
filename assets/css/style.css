@@ -484,6 +484,11 @@ a {
 
   .display-block {
     display: block;
+    height: 120px;
+  }
+
+  .system-li {
+    margin-bottom: 10px;
   }
 
   .dark-block {
