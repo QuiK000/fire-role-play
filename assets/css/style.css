@@ -608,6 +608,10 @@ a {
     justify-content: center;
     padding-bottom: 50px;
   }
+
+  .mobile-form {
+    display: block!important;
+  }
 }
 
 .mobile-form {
