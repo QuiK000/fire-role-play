@@ -482,6 +482,10 @@ a {
     width: 95%;
   }
 
+  .display-block {
+    display: block;
+  }
+
   .dark-block {
     width: 100%;
     height: 75px;
